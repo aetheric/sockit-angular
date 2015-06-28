@@ -1,0 +1,46 @@
+{
+  "name": "sockit-angular",
+  "version": "0.0.1",
+  "description": "Angular directives and services for use with sockit.",
+  "homepage": "https://github.com/aetheric/sockit-angular",
+  "author": "Peter Cummuskey <peterc@aetheric.co.nz> (http://gplus.to/tzrlk/)",
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "keywords": [
+    "session",
+    "websocket",
+    "html5",
+    "sockit",
+    "angular"
+  ],
+  "scripts": {
+    "build": "gulp build",
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aetheric/sockit-angular.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aetheric/sockit-angular/issues"
+  },
+  "devDependencies": {
+    "angular": "^1.4.1",
+    "chai": "^3.0.0",
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-mocha": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-util": "^3.0.4",
+    "karma": "^0.12.36",
+    "mocha": "^2.2.5",
+    "phantomjs": "^1.9.17",
+    "sinon": "^1.15.3",
+    "sockit": "../sockit",
+    "through2": "^2.0.0",
+    "vinyl-buffer": "^1.0.0"
+  }
+}

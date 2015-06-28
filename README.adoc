@@ -1,0 +1,4 @@
+SOCKIT-ANGULAR
+==============
+
+Angular directives and services for use with sockit.
