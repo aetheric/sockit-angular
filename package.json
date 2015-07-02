@@ -5,7 +5,7 @@
   "homepage": "https://github.com/aetheric/sockit-angular",
   "author": "Peter Cummuskey <peterc@aetheric.co.nz> (http://gplus.to/tzrlk/)",
   "license": "MIT",
-  "main": "gulpfile.js",
+  "main": "src/main/sockit-module.js",
   "keywords": [
     "session",
     "websocket",
@@ -39,7 +39,7 @@
     "mocha": "^2.2.5",
     "phantomjs": "^1.9.17",
     "sinon": "^1.15.3",
-    "sockit": "../sockit",
+    "sockit": "git+https://github.com/aetheric/sockit.git",
     "through2": "^2.0.0",
     "vinyl-buffer": "^1.0.0"
   }
