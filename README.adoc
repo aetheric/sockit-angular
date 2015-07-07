@@ -1,4 +1,6 @@
 SOCKIT-ANGULAR
 ==============
 
+image:https://travis-ci.org/aetheric/sockit-angular.svg?branch=master["Build Status", link="https://travis-ci.org/aetheric/sockit-angular"]
+
 Angular directives and services for use with sockit.
