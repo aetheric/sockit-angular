@@ -1,7 +1,8 @@
 language: node_js
 node_js:
   - '0.10'
-before_deploy: npm call build
+before_deploy: npm run build
+after_deploy: cat /home/travis/build/aetheric/sockit-angular/npm-debug.log
 deploy:
   provider: npm
   email: peterc@aetheric.co.nz
