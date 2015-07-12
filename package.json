@@ -1,6 +1,6 @@
 {
   "name": "sockit-angular",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Angular directives and services for use with sockit.",
   "homepage": "https://github.com/aetheric/sockit-angular",
   "author": "Peter Cummuskey <peterc@aetheric.co.nz> (http://gplus.to/tzrlk/)",
@@ -39,7 +39,7 @@
     "mocha": "^2.2.5",
     "phantomjs": "^1.9.17",
     "sinon": "^1.15.3",
-    "sockit": "git+https://github.com/aetheric/sockit.git",
+    "sockit": "^0.1.0",
     "through2": "^2.0.0",
     "vinyl-buffer": "^1.0.0"
   }
