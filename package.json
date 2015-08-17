@@ -1,6 +1,6 @@
 {
   "name": "sockit-angular",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Angular directives and services for use with sockit.",
   "homepage": "https://github.com/aetheric/sockit-angular",
   "author": "Peter Cummuskey <peterc@aetheric.co.nz> (http://gplus.to/tzrlk/)",
